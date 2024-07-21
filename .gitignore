@@ -1,5 +1,7 @@
+text_ignore.txt
+
 ### AL ###
-#Template for AL projects for Dynamics 365 Business Central
+gitatus#Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
 #Cache folder
